@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Curves</string>
+    <string name="green">green</string>
+    <string name="red">red</string>
+    <string name="blue">blue</string>
+    <string name="all">all</string>
+</resources>
